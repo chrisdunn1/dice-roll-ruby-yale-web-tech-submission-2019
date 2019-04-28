@@ -6,8 +6,3 @@ def roll
   # code goes here
   rand(1..6)
 end
-
-arr = ["A", "B", "C"]
-def randompick
-  rand(arr.length)
-end
